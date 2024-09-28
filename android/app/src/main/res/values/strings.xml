@@ -1,4 +1,4 @@
 <resources>
-<string name="facebook_app_id">1035217381264241</string>
-<string name="facebook_client_token">cd274e3a9f629bd462a8e34b65a9ca26</string>
+<string name="facebook_app_id">YOUR_AP_ID</string>
+<string name="facebook_client_token">YOUR_CLIENT_TOKEN</string>
 </resources>
